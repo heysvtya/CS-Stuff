@@ -1,1 +1,1 @@
-shit from cs class session
+shit from cs class sessions
