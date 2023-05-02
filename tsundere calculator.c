@@ -3,7 +3,7 @@
 int main() 
 {
 float s, e, x ;
-printf("Type two dumbass numbers bozo");
+printf("Type two dumbass numbers bozo\n");
 scanf("%f",&s);
 scanf("%f",&e);
 x=s+e;
