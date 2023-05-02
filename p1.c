@@ -8,5 +8,5 @@ scanf("%f",&s);
 scanf("%f",&e);
 x=s+e;
 printf("here's your answer=%f",x);
-getch() 
+return 0;
 }
